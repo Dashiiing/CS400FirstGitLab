@@ -1,0 +1,10 @@
+Script started on Thu Jun 27 05:02:43 2024
+Restored session: Thu Jun 27 05:02:32 CST 2024
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Dashiiiings-MacBook-Air.local/Users/dashiiiing/desktop/cs400/CS400FirstGitLab[0m[27m[24m[J(base) dashiiiing@Dashiiiings-MacBook-Air CS400FirstGitLab % [K[?2004hmmake[?2004l
+java Main
+Beggining of testing the color class:
+What color do you want to change to? 
+git status
+Color change failed! 
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Dashiiiings-MacBook-Air.local/Users/dashiiiing/desktop/cs400/CS400FirstGitLab[0m[27m[24m[J(base) dashiiiing@Dashiiiings-MacBook-Air CS400FirstGitLab % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Dashiiiings-MacBook-Air.local/Users/dashiiiing/desktop/cs400/CS400FirstGitLab[0m[27m[24m[J(base) dashiiiing@Dashiiiings-MacBook-Air CS400FirstGitLab % [K[?2004h
