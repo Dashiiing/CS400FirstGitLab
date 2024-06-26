@@ -20,3 +20,10 @@ public class Main{
 		}
 	}
 }
+
+
+/*
+ * Color class
+ * Name: Xinyang
+ * Email: xzhao433@wisc.edu
+ */

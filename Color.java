@@ -1,5 +1,9 @@
+
 /*
- *	Color class
+ * Color class
+ * Name: Xinyang
+ * Email: xzhao433@wisc.edu
+ */
  */
 public class Color{
 	private String color;
